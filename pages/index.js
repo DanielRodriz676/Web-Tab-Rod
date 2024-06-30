@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Feliz aniversário meu querido irmão</h1>;
+  return <h1>Krl Renan, you burro man</h1>;
 }
 
 function test() {
