@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Em construção</h1>;
+  return <img src= "https://pbs.twimg.com/media/EJL03a9XYAAQ8R6.jpg"></img>;
 }
 
 function test() {
